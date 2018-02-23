@@ -5,4 +5,4 @@ Hide your password like linux does (other themes may cause issues)
 
 [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-285959.svg)](https://raw.githubusercontent.com/RaitaroH/Hidden-Password/master/HiddenPassword.user.css)
 
-Theme as a userstyle [here](https://openusercss.org/profile/5a433adb2ef4870b000695a5).
+Theme as a userstyle [here](https://openusercss.org/theme/5a90527070bc4a0b00903b13).
